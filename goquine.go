@@ -1,3 +1,4 @@
+// Goquine is a quine.  It prints itself.
 package main
 
 import (
